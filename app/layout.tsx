@@ -7,6 +7,7 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata: Metadata = {
   title: 'Todo App',
   description: 'This a todo app created using Next JS,Tailwind and DaisyUI.',
+  
 }
 
 export default function RootLayout({
