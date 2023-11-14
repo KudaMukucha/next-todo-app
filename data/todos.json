@@ -1,24 +1,12 @@
 {
   "tasks": [
     {
-      "id": "1",
-      "text": "buy some milk"
+      "id": "e08fb733-21f7-4e58-ba4a-c063556cc090",
+      "text": "code daily"
     },
     {
-      "id": "2",
-      "text": "code like a maniac"
-    },
-    {
-      "id": "3",
-      "text": "go to the gym"
-    },
-    {
-      "id": "4",
-      "text": "go to the market"
-    },
-    {
-      "id": "ec0f4fb6-c9c2-4415-a0f3-97c4f0856216",
-      "text": "i won"
+      "id": "f6f0e85d-88f6-43b9-8685-3f34a634e0a7",
+      "text": "be awesome"
     }
   ]
 }
